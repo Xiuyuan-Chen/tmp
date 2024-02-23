@@ -1,0 +1,1 @@
+tensorboard --logdir /mnt/bn/arnold-labcq-llm/cxy/VideoLLAVA-AE/Video-LLaVA-AE/videollava/model/checkpoints_8frames_32query/Feb17_195641 --bind_all
